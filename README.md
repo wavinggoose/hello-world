@@ -2,7 +2,7 @@
 
 just another repository
 
-hello, i am zoufanyuan.
+hello, i am goodbiggoose.
 
 how are you?
 

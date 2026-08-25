@@ -1,13 +1,9 @@
 # hello-world
 
-just another repository
+Hello, I am wavinggoose.
 
-hello, i am goodbiggoose.
+How are you?
 
-how are you?
+I am fine, and you?
 
-i am fine, and you?
-
-i am ok.
-
-A new line.
+I am ok.
